@@ -56,7 +56,7 @@ I wanted to get across how overwhelming it can feel being online in this day and
 - Github account: https://github.com/noon0v0
 - Published webpage for stage 4: https://noon0v0.github.io/exquisite-corpse-stage-4-time-jockey/
 
-
+I created a word game about explorers, you can enter different branch plots according to the options you choose, and finally find your way home, every time you enter a new scene, it will show a photo of the current scene, I used CogView AI painting, according to the scene description I entered, I drew the corresponding picture, with the help of chatgpt I learned how to implement the multi-button function trigger like this word game, You can determine which option you are clicking by judging the position of the mouse when you click, and you don't need to bind a function to each button, and each button can use an anonymous function to achieve the corresponding function when it is created.
 
 ### 🟪 Stage 5
 - Name/Alias:
