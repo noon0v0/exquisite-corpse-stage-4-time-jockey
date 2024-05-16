@@ -52,11 +52,11 @@ I kept the horse images and the minute counter, to continue the underlying theme
 I wanted to get across how overwhelming it can feel being online in this day and age. And how we are often bombarded with information, ads and content that we don't necessarily want to see or are interested in.*
 
 ### 🟦 Stage 4
-- Name/Alias:
-- Github account:
-- Published webpage for stage 4:
+- Name/Alias: Ruiting Zhuang
+- Github account: https://github.com/noon0v0
+- Published webpage for stage 4: https://noon0v0.github.io/exquisite-corpse-stage-4-time-jockey/
 
-*... comments to be added here*
+
 
 ### 🟪 Stage 5
 - Name/Alias:
